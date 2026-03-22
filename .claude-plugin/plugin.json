@@ -1,0 +1,9 @@
+{
+  "name": "superresearch",
+  "version": "0.3.0",
+  "description": "Before any autonomous loop, derive a valid measure of 'better', validate it (invariance, sufficiency, strategyproofness), then run the loop with a baseline. Three steps: derive the measure, validate the measure, run Karpathy's loop.",
+  "author": { "name": "Riccardo Pirruccio" },
+  "repository": "https://github.com/RPirruccio/superresearch",
+  "license": "MIT",
+  "keywords": ["superresearch", "metric-driven", "fmeca", "spec-validation", "learning", "claude-code-plugin"]
+}

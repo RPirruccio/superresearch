@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Session artifacts (generated per-project, not part of the plugin)
+docs/superresearch/
+
+# Private/sensitive files
+docs/*.private.md
